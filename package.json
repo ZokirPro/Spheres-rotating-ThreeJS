@@ -6,7 +6,7 @@
   "scripts": {
     "deploy": "gh-pages -d Spheres-rotating-ThreeJS-master "
   },
-  "homepage": "https://zokirpro.github.io/spheres",
+  "homepage": " https://zokirpro.github.io/Spheres-rotating-ThreeJS/",
   "keywords": [],
   "author": "",
   "license": "ISC",
